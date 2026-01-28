@@ -21,6 +21,6 @@ Watch the full backend workflow demo here: [Google Drive Link](https://drive.goo
 - Stored procedure–based data access
 
 🔗 **GitHub Repository**
-https://github.com/USERNAME/Internal-Process-Task-Management
+https://github.com/masoumeh-etaate/Internal-Process-Task-Management
 
 #dotnet #backend #sqlserver #dapper #jwt #softwareengineering #CleanArchitecture
